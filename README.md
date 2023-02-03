@@ -42,7 +42,7 @@ Well Uh.. Cause it's written in rust duh
 
 # Contributors (So Far)
 
-<img src="https://user-images.githubusercontent.com/96284645/216677219-81cd3234-09d6-4eb6-9ddd-40128b0b3baa.png" width=50>
+<img src="https://tenor.com/view/crab-rave-twitch-dance-gif-14869574" width=50>
 </img>
 
 # Project Description
