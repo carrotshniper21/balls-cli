@@ -44,8 +44,9 @@ Well Uh.. Cause it's written in rust duh
 
 # Contributors (So Far)
 
-<img src="https://tenor.com/view/crab-rave-twitch-dance-gif-14869574" width=50>
+<img src="https://user-images.githubusercontent.com/96284645/216689433-0b7341cc-d24a-4d91-bf49-6284a6c967ac.png" width=50>
 </img>
+
 
 # Project Description
 ### BALLS-CLI
