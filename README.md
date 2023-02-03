@@ -37,7 +37,7 @@
 
 # Why use it?
 Well Uh.. Cause it's written in rust duh
-<img src="https://user-images.githubusercontent.com/96284645/216688776-c84e6a9b-ff0c-4112-a3bc-149df5d2da2f.jpeg">
+<img src="https://user-images.githubusercontent.com/96284645/216688776-c84e6a9b-ff0c-4112-a3bc-149df5d2da2f.jpeg" width=500>
 </img>
 
 # Contributors (So Far)
