@@ -37,15 +37,15 @@
 
 # Why use it?
 Well Uh.. Cause it's written in rust duh
+<div align="left">
 <img src="https://user-images.githubusercontent.com/96284645/216688776-c84e6a9b-ff0c-4112-a3bc-149df5d2da2f.jpeg" width=400>
 </img>
+</div>
 
 # Contributors (So Far)
 
-<div align="left">
 <img src="https://tenor.com/view/crab-rave-twitch-dance-gif-14869574" width=50>
 </img>
-</div>
 
 # Project Description
 ### BALLS-CLI
