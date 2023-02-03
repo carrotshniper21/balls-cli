@@ -38,7 +38,7 @@
 # Why use it?
 Well Uh.. Cause it's written in rust duh
 
-<video height="360" src="https://giphy.com/embed/eDHrF9uHYsXfOCB5MB/video" width="480"></video>
+<div class="tenor-gif-embed" data-postid="14869574" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/crab-rave-twitch-dance-gif-14869574">Crab Rave Twitch Sticker</a>from <a href="https://tenor.com/search/crab+rave-stickers">Crab Rave Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Contributors (So Far)
 
