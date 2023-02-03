@@ -38,7 +38,7 @@
 # Why use it?
 Well Uh.. Cause it's written in rust duh
 
-<img height="360" src="https://giphy.com/embed/eDHrF9uHYsXfOCB5MB/video" width="480"></img>
+<video height="360" src="https://giphy.com/embed/eDHrF9uHYsXfOCB5MB/video" width="480"></video>
 
 # Contributors (So Far)
 
